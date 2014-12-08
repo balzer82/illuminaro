@@ -3,6 +3,12 @@ Illuminaro
 
 Illuminaro is a package for building interactive rich web applications with Python.
 
+Install Illuminaro
+------------------
+
+`pip install git+https://github.com/afrolov/illuminaro.git`
+
+
 Illuminaro Hello World
 ------------------
 Once you installed illuminaro, save the following code into hello_illuminaro.py
